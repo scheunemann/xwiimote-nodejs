@@ -1,0 +1,26 @@
+{
+  "name": "xwiimote",
+  "version": "0.0.0",
+  "description": "xwiimote bindings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scheunemann/xwiimote-nodejs.git"
+  },
+  "keywords": [
+    "\"Wii\"",
+    "\"remote\"",
+    "\"xwiimote\"",
+    "\"controller\""
+  ],
+  "author": "Marcus Scheunemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scheunemann/xwiimote-nodejs/issues"
+  },
+  "homepage": "https://github.com/scheunemann/xwiimote-nodejs#readme",
+  "private": true
+}
