@@ -1,8 +1,8 @@
 {
   "name": "xwiimote",
-  "version": "0.0.0",
-  "description": "xwiimote bindings",
-  "main": "index.js",
+  "version": "0.1.0-alpha",
+  "description": "A low-level Node.js binding for the Linux xwiimote driver",
+  "main": "./build/Release/xwiimote.node",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,8 @@
     "\"Wii\"",
     "\"remote\"",
     "\"xwiimote\"",
-    "\"controller\""
+    "\"controller\"",
+    "\"linux\""
   ],
   "author": "Marcus Scheunemann",
   "license": "MIT",
