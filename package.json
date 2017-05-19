@@ -1,6 +1,6 @@
 {
   "name": "xwiimote",
-  "version": "0.1.0-alpha.1",
+  "version": "0.1.0-alpha.2",
   "description": "A low-level Node.js binding for the Linux xwiimote driver",
   "main": "./build/Release/xwiimote.node",
   "scripts": {
